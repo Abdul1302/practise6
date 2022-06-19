@@ -1,0 +1,10 @@
+                     One of the first things I do when I’m given a
+                     manuscript to typeset is do a global find and
+                     replace to make sure none of the paragraphs begins
+                     with a tab (I search for paragraph breaks followed
+                     by a tab and then replace them with only paragraph
+                     breaks). Putting a tab at the beginning of a paragraph
+                     is a holdover from typewriter days when that was the 
+                     easiest way to put a half-inch indent at the beginning
+                     of a new paragraph. There are worse ways to indent a
+                     paragraph, but we’ll get to those shortly.
